@@ -26,3 +26,13 @@ body {
     position: relative;
     top: 33%;
 }
+
+.h-text{
+    font-family: 'Comfortaa', cursive;
+}
+.smaller-text{
+    font-family: 'Ubuntu Mono', monospace;
+}
+.overlay > img, .welcome {
+    margin-bottom: 30px;
+}
